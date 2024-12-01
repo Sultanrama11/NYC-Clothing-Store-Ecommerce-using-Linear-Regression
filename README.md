@@ -1,7 +1,3 @@
-Berikut adalah template README untuk proyek Anda yang diunggah ke GitHub:
-
----
-
 # **Linear Regression Analysis: E-commerce Customer Insights**
 
 ## **Project Overview**
@@ -52,37 +48,6 @@ The data is used to build a regression model to understand the impact of various
 2. **Time on App**: More impactful on spending than time on the website. Enhancing app engagement could lead to higher revenues.
 3. **Time on Website**: Minimal influence on spending. Website optimization should prioritize customer acquisition over engagement.
 
----
-
-## **Technologies Used**
-- **Python**
-  - `Pandas` and `NumPy` for data manipulation.
-  - `Matplotlib` and `Seaborn` for data visualization.
-  - `Scikit-learn` for modeling and evaluation.
-- Jupyter Notebook for interactive analysis.
-
----
-
-## **How to Use**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/linear-regression-ecommerce.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd linear-regression-ecommerce
-   ```
-3. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open the notebook:
-   ```bash
-   jupyter notebook 02-Linear Regression Project.ipynb
-   ```
-5. Run the notebook cells to reproduce the analysis.
-
----
 
 ## **Business Recommendations**
 - **Focus on Mobile Engagement**: Invest in improving app features to boost usage and customer spending.
